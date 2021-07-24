@@ -12,8 +12,7 @@
 - 🌱 I’m currently learning JavaScript 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to learn new things like new technologies and new![connect](https://user-images.githubusercontent.com/54444136/126865370-f762c4c3-92c5-481e-bf3c-3e2c613db0f6.jpg)
- programming languages
+- ⚡ Fun fact: I love to learn new things like new technologies and new programming languages
 
 ### Connect with me:
 
