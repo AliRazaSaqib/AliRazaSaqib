@@ -44,6 +44,8 @@
 <br />
 <br />
 
+### Last Activity
+https://img.shields.io/github/last-commit/AliRazaSaqib/Covid-19-Tracker?style=for-the-badge
 [website]: https://www.incomebomb.com/
 [twitter]: https://twitter.com/AliRaza55795782
 [instagram]: https://www.instagram.com/alirazasaqib786/
