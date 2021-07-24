@@ -1,6 +1,8 @@
 <!-- @format -->
 
-### Hi there, I'm Ali Raza - aka [IncomeBomb][website] 👋
+### Hi there, I'm Ali Raza - [IncomeBomb][website] 👋
+
+- Co-Founder Incomebomb.com. Hi, my self Ali Raza, I am digital expert and Front End Developer, currently self-employed and driven by passion to create digital solution for my    valuable clients. I like to help people get answers to their problems regarding WordPress and Web Development. I love about what I do! I want to make my impression as a  successful developer and for that I try to learn and teach anything valuable that can help me to get the better understand of what I do!
 
 [![Website](https://img.shields.io/website?label=incomebomb.com&style=for-the-badge&url=https%3A%2F%2Fincomebomb.com)](https://www.incomebomb.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AliRaza?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AliRaza55795782)
