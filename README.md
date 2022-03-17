@@ -8,6 +8,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAliRaza55795782"/>
+  <div>
+
 [![Website](https://img.shields.io/website?label=incomebomb.com&style=for-the-badge&url=https%3A%2F%2Fincomebomb.com)](https://www.incomebomb.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AliRaza55795782?color=%231DA1F2&label=Follow%20%40AliRaza&logo=twitter&style=for-the-badge)](https://twitter.com/AliRaza55795782)
 
