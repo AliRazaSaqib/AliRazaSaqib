@@ -10,7 +10,7 @@
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAliRaza55795782"/>
-  <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/ali-raza-7689901a7/"><img src="https://img.shields.io/badge/LinkedIn-LinkedIn-blue"/></a>
   <div>
 
 [![Website](https://img.shields.io/website?label=incomebomb.com&style=for-the-badge&url=https%3A%2F%2Fincomebomb.com)](https://www.incomebomb.com/)
