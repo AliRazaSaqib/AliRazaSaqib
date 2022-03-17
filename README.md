@@ -8,8 +8,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAliRaza55795782"/>
+  <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <div>
 
 [![Website](https://img.shields.io/website?label=incomebomb.com&style=for-the-badge&url=https%3A%2F%2Fincomebomb.com)](https://www.incomebomb.com/)
