@@ -9,7 +9,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://twitter.com/AliRaza55795782"><img src="  https://img.shields.io/badge/twitter-blue?style=flat&logo=twitter&labelColor=black"/></a>
+  <a href="https://twitter.com/AliRaza55795782"><img src="https://img.shields.io/badge/twitter-blue?style=flat&logo=twitter&labelColor=black"/></a>
    <a href="https://www.linkedin.com/in/ali-raza-7689901a7/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black"/></a>
   <div>
 
