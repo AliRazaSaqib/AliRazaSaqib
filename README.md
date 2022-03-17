@@ -54,10 +54,4 @@
 <br />
 <br />
 
-[website]: https://www.incomebomb.com/
-[twitter]: https://twitter.com/AliRaza55795782
-[instagram]: https://www.instagram.com/alirazasaqib786/
-[linkedin]: https://www.linkedin.com/in/ali-raza-7689901a7/
-[dribbble]: https://dribbble.com/Alirazasaqib
-[behance]: https://www.behance.net/AliRazaSaqib
-[facebook]: https://web.facebook.com/profile.php?id=100006145513818
+
