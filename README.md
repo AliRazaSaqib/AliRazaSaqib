@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Ali Raza - [IncomeBomb][website] 👋
 
-- Co-Founder Incomebomb.com. Hi there!, my self Ali Raza, I’m a front-end web developer with experience in building every kind of websites and experience in responsive design and development 🏆. I am extremely passionate and enthusiastic about my work. I would love to assist you in Front end and WordPress projects. In my opinion website design is the main thing that can attract the client that’s why I will design a responsive website that reflects your business and increase customer interaction. I will convert your idea into a modern professional and eye-catching trending responsive website. 🌐, currently self-employed and driven by passion to create digital solution for my valuable clients. I like to help people get answers to their problems regarding WordPress and Web Development. I love about what I do! I want to make my impression as a  successful developer and for that I try to learn and teach anything valuable that can help me to get the better understand of what I do!
+Co-Founder Incomebomb.com. Hi there!, my self Ali Raza, I’m a front-end web developer with experience in building every kind of websites and experience in responsive design and development 🏆. I am extremely passionate and enthusiastic about my work. I would love to assist you in Front end and WordPress projects. In my opinion website design is the main thing that can attract the client that’s why I will design a responsive website that reflects your business and increase customer interaction. I will convert your idea into a modern professional and eye-catching trending responsive website. 🌐, currently self-employed and driven by passion to create digital solution for my valuable clients. I like to help people get answers to their problems regarding WordPress and Web Development. I love about what I do! I want to make my impression as a  successful developer and for that I try to learn and teach anything valuable that can help me to get the better understand of what I do!
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -12,7 +12,7 @@
   <a href="https://twitter.com/AliRaza55795782"><img src="https://img.shields.io/badge/twitter-blue?style=flat&logo=twitter&labelColor=black"/></a>
   <a href="https://www.linkedin.com/in/ali-raza-7689901a7/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black"/></a>
    <a href="https://www.facebook.com/profile.php?id=100006145513818"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&labelColor=black"/></a>
-  <div>
+  </div>
 
 [![Website](https://img.shields.io/website?label=incomebomb.com&style=for-the-badge&url=https%3A%2F%2Fincomebomb.com)](https://www.incomebomb.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AliRaza55795782?color=%231DA1F2&label=Follow%20%40AliRaza&logo=twitter&style=for-the-badge)](https://twitter.com/AliRaza55795782)
