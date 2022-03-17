@@ -4,7 +4,9 @@
 
 - Co-Founder Incomebomb.com. Hi there!, my self Ali Raza, I’m a front-end web developer with experience in building every kind of websites and experience in responsive design and development 🏆. I am extremely passionate and enthusiastic about my work. I would love to assist you in Front end and WordPress projects. In my opinion website design is the main thing that can attract the client that’s why I will design a responsive website that reflects your business and increase customer interaction. I will convert your idea into a modern professional and eye-catching trending responsive website. 🌐, currently self-employed and driven by passion to create digital solution for my valuable clients. I like to help people get answers to their problems regarding WordPress and Web Development. I love about what I do! I want to make my impression as a  successful developer and for that I try to learn and teach anything valuable that can help me to get the better understand of what I do!
 
-<div style="width:100%;height:0;padding-bottom:126%;position:relative;"><iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100"/>
+</div>
 
 [![Website](https://img.shields.io/website?label=incomebomb.com&style=for-the-badge&url=https%3A%2F%2Fincomebomb.com)](https://www.incomebomb.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AliRaza55795782?color=%231DA1F2&label=Follow%20%40AliRaza&logo=twitter&style=for-the-badge)](https://twitter.com/AliRaza55795782)
