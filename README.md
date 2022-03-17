@@ -14,8 +14,6 @@ Co-Founder Incomebomb.com. Hi there!, my self Ali Raza, I’m a front-end web de
    <a href="https://www.facebook.com/profile.php?id=100006145513818"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&labelColor=black"/></a>
   </div>
 
-[![Website](https://img.shields.io/website?label=incomebomb.com&style=for-the-badge&url=https%3A%2F%2Fincomebomb.com)](https://www.incomebomb.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/AliRaza55795782?color=%231DA1F2&label=Follow%20%40AliRaza&logo=twitter&style=for-the-badge)](https://twitter.com/AliRaza55795782)
 
 ## I'm a Frontend Developer!!
 
