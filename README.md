@@ -25,18 +25,6 @@ Co-Founder Incomebomb.com. Hi there!, my self Ali Raza, I’m a front-end web de
 - ⚡ Fun fact: I love to learn new things like new technologies and new programming languages
 <br/>
 
-### Connect with me:
-
-[<img align="left" alt="incomebomb.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="IncomeBomb | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="IncomeBomb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="IncomeBomb | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="IncomeBomb | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="IncomeBomb | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
-[<img align="left" alt="IncomeBomb | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
-
-<br /><br/>
-
 ## 🧰 Languages and Tools:
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Vs Code"  width="32px" style="vertical-align:top; margin:4px">
@@ -53,6 +41,24 @@ Co-Founder Incomebomb.com. Hi there!, my self Ali Raza, I’m a front-end web de
 
 <br />
 <br />
+
+## UI/UX Knowledge!!
+
+- 🌱 Adobe XD
+- 👯 Figma 
+<br/>
+
+### Connect with me:
+
+[<img align="left" alt="incomebomb.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="IncomeBomb | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="IncomeBomb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="IncomeBomb | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="IncomeBomb | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="IncomeBomb | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
+[<img align="left" alt="IncomeBomb | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
+
+<br /><br/>
     
 [website]: https://www.incomebomb.com/
 [twitter]: https://twitter.com/AliRaza55795782
