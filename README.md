@@ -44,8 +44,8 @@ Co-Founder Incomebomb.com. Hi there!, my self Ali Raza, I’m a front-end web de
 
 ## UI/UX Knowledge!!
 
-- 🌱 Adobe XD
-- 👯 Figma 
+- Adobe XD
+- Figma 
 <br/>
 
 ### Connect with me:
