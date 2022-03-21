@@ -40,7 +40,6 @@ Co-Founder Incomebomb.com. Hi there!, my self Ali Raza, I’m a front-end web de
 </p>
 
 <br />
-<br />
 
 ## UI/UX Knowledge!!
 
