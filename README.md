@@ -3,7 +3,7 @@
 ### Hi there, I'm Ali Raza - [IncomeBomb][website] 👋
 
 <p align="justify">
-Hi there!, my self Ali Raza, I’m a web developer with experience in building every kind of websites and experience in responsive design and development 🏆. I am extremely passionate and enthusiastic about my work. I would love to assist you in Front end projects.I can managing the complete Front-end, from conceptualization,
+I’m a web developer with experience in building every kind of websites and experience in responsive design and development 🏆. I am extremely passionate and enthusiastic about my work. I would love to assist you in Front end projects.I can managing the complete Front-end, from conceptualization,
 coding, and debugging to delivery. A good team player having excellent interpersonal communication, problem-solving, clean coding skills and also try to learn the new things. In my opinion website design is the main thing that can attract the client that’s why I will design a responsive website that reflects your business and increase customer interaction. I will convert your idea into a modern professional and eye-catching trending responsive website. 🌐, currently self-employed and driven by passion to create digital solution for my valuable clients. I like to help people get answers to their problems regarding WordPress and Web Development. I love about what I do! I want to make my impression as a  successful developer and for that I try to learn and teach anything valuable that can help me to get the better understand of what I do!
 </p>
 
@@ -61,7 +61,7 @@ coding, and debugging to delivery. A good team player having excellent interpers
 
 <br /><br/>
     
-[website]: https://www.incomebomb.com/
+[website]: http://alirazadev.herokuapp.com/
 [twitter]: https://twitter.com/AliRaza55795782
 [instagram]: https://www.instagram.com/alirazasaqib786/
 [linkedin]: https://www.linkedin.com/in/ali-raza-7689901a7/
