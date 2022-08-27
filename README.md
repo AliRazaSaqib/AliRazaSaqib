@@ -58,7 +58,8 @@ coding, and debugging to delivery. A good team player having excellent interpers
     <p/>
     <br/>
 
-### Connect with me:
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> Connect with me:
+<br/>
 
 [<img align="left" alt="incomebomb.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="IncomeBomb | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
