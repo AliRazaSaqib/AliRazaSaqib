@@ -49,6 +49,15 @@ coding, and debugging to delivery. A good team player having excellent interpers
 - Figma 
 <br/>
 
+## 📊 Github Stats
+
+  <br/>
+  <p align="center">
+    <img height="150px" width="60%" alt="AliRazaSaqib Github Stats" src="https://github-readme-stats.vercel.app/api?username=AliRazaSaqib&show_icons=true&theme=radical&title_color=1da1f2&text_color=ffff&hide=prs,stars"/>
+     <img height="150px" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliRazaSaqib&theme=tokyonight" alt="AliRazaSaqib Github Stats" />
+    <p/>
+    <br/>
+
 ### Connect with me:
 
 [<img align="left" alt="incomebomb.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
