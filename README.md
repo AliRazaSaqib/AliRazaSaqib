@@ -1,6 +1,6 @@
 <!-- @format -->
 
-### Hi there, I'm Ali Raza - [PortFolio Website][website] 👋
+### Hi there, I'm Ali Raza - [Portfolio Website][website] 👋
 
 <p align="justify">
 I’m a web developer with experience in building every kind of websites and experience in responsive design and development 🏆. I am extremely passionate and enthusiastic about my work. I would love to assist you in Front end projects.I can managing the complete Front-end, from conceptualization,
