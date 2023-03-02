@@ -3,8 +3,11 @@
 ### Hi there, I'm Ali Raza - [Portfolio Website][website] 👋
 
 <p align="justify">
-I’m a web developer with experience in building every kind of websites and experience in responsive design and development 🏆. I am extremely passionate and enthusiastic about my work. I would love to assist you in Front end projects.I can managing the complete Front-end, from conceptualization,
-coding, and debugging to delivery. A good team player having excellent interpersonal communication, problem-solving, clean coding skills and also try to learn the new things. In my opinion website design is the main thing that can attract the client that’s why I will design a responsive website that reflects your business and increase customer interaction. I will convert your idea into a modern professional and eye-catching trending responsive website. 🌐, currently self-employed and driven by passion to create digital solution for my valuable clients. I like to help people get answers to their problems regarding WordPress and Web Development. I love about what I do! I want to make my impression as a  successful developer and for that I try to learn and teach anything valuable that can help me to get the better understand of what I do!
+My self Ali Raza, and I am a Frontend Web Developer currently managing the complete Front-end, from conceptualization, coding, and debugging to delivery. A good team player having excellent interpersonal communication, problem-solving, and clean coding skills and always trying to learn new things. 👨‍💻
+
+During my development journey, I am working on multiple projects and always trying to simplify the application workflows and save the user’s precious time. I am not just making the application but also thinking from a user's perspective about how I can facilitate the user through my application which is the important thing in development. 
+  
+I like to help people get answers to their problems regarding ReactJS, NextJS and some other frontend technologies. I love about what I do! I want to make my impression as a  successful developer and for that I try to learn and teach anything valuable that can help me to get the better understand of what I do!
 </p>
 
 <div id="header" align="center">
@@ -22,7 +25,7 @@ coding, and debugging to delivery. A good team player having excellent interpers
 
 - 🌱 I’m currently learning everything🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn new things like new technologies and new programming languages
 <br/>
 
@@ -75,13 +78,14 @@ coding, and debugging to delivery. A good team player having excellent interpers
 
 <br /><br/>
     
-[website]: http://alirazadev.herokuapp.com/
+[website]: https://alirazadev-f795a.web.app/
 [twitter]: https://twitter.com/AliRaza55795782
 [instagram]: https://www.instagram.com/alirazasaqib786/
-[linkedin]: https://www.linkedin.com/in/ali-raza-7689901a7/
+[linkedin]: https://www.linkedin.com/in/ali-raza-saqib/
 [dribbble]: https://dribbble.com/Alirazasaqib
 [behance]: https://www.behance.net/AliRazaSaqib
 [facebook]: https://web.facebook.com/profile.php?id=100006145513818
+[quora]: https://www.quora.com/profile/Muhammad-Ali-Raza-34
 
 
 
