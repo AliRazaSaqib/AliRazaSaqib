@@ -33,6 +33,18 @@ I enjoy helping people with their problems related to ReactJS, NextJS, and other
 - ⚡ Fun fact: I love to learn new things like new technologies and new programming languages
 <br/>
 
+
+## Contributions
+ ✓ Facebook & Quora
+ I'm passionate about programming and love helping others with their programming 
+ issues. I assist people by giving them solutions on Quora and Facebook. 🤝💻 In 
+ addition, I participate in development groups where people can post their problems, 
+ and I try my best to provide the best solutions to those problems. 🤔💡👨‍💻
+ ✓ GitHub
+ I also contribute to open source projects on GitHub. 🤝👨‍💻 I love sharing my 
+ solutions with others, and recently I assisted with resolving a custom React reusable 
+ calendar component issue that was posted on GitHub. 🤔💡📅
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> Languages and Tools:
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Vs Code"  width="32px" style="vertical-align:top; margin:4px">
