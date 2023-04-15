@@ -80,7 +80,6 @@ I enjoy helping people with their problems related to ReactJS, NextJS, and other
     <p/>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/>
-<br/>
 
 [<img align="left" alt="incomebomb.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="IncomeBomb | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
