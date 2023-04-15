@@ -78,7 +78,6 @@ I enjoy helping people with their problems related to ReactJS, NextJS, and other
     <img height="150px" width="60%" alt="AliRazaSaqib Github Stats" src="https://github-readme-stats.vercel.app/api?username=AliRazaSaqib&show_icons=true&theme=radical&title_color=1da1f2&text_color=ffff&hide=prs,stars"/>
      <img height="150px" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliRazaSaqib&theme=tokyonight" alt="AliRazaSaqib Github Stats" />
     <p/>
-    <br/>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/>
 <br/>
