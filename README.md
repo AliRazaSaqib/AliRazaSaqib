@@ -47,7 +47,7 @@ I enjoy helping people with their problems related to ReactJS, NextJS, and other
 
 <br/>
 
-## Languages and Tools: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/>
+## Languages and Tools <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/>
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Vs Code"  width="32px" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" alt="Sublime Text"  width="32px" style="vertical-align:top; margin:4px">
@@ -68,7 +68,7 @@ I enjoy helping people with their problems related to ReactJS, NextJS, and other
 
 <br />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> UI/UX Knowledge!!
+## UI/UX Knowledge <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> 
 
 - Adobe XD
 - Figma 
@@ -83,7 +83,7 @@ I enjoy helping people with their problems related to ReactJS, NextJS, and other
     <p/>
     <br/>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> Connect with me:
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/>
 <br/>
 
 [<img align="left" alt="incomebomb.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
