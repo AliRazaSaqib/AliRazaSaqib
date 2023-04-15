@@ -29,11 +29,11 @@ I enjoy helping people with their problems related to ReactJS, NextJS, and other
 
 - 🌱 I’m currently learning everything🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to learn new things like new technologies and new programming languages
+- 🥅 As part of my objectives for 2023, I aim to significantly contribute to the development of Open Source projects
+- ⚡ A noteworthy aspect about me is my keen interest in learning new technologies and programming languages
 
 
-## Contributions
+## Contributions 👩‍💻
  - Facebook & Quora
  I'm passionate about programming and love helping others with their programming 
  issues. I assist people by giving them solutions on Quora and Facebook. 🤝💻 In 
