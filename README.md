@@ -71,7 +71,7 @@ I enjoy helping people with their problems related to ReactJS, NextJS, and other
 - Adobe XD
 - Figma 
 
-## Github Stats 📊
+## Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/>
 
   <p align="center">
     <img height="150px" width="60%" alt="AliRazaSaqib Github Stats" src="https://github-readme-stats.vercel.app/api?username=AliRazaSaqib&show_icons=true&theme=radical&title_color=1da1f2&text_color=ffff&hide=prs,stars"/>
