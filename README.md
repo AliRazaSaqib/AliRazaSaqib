@@ -20,7 +20,8 @@ I enjoy helping people with their problems related to ReactJS, NextJS, and other
 
 <div id="badges" align="center">
   <a href="https://twitter.com/AliRaza55795782"><img src="https://img.shields.io/badge/twitter-blue?style=flat&logo=twitter&labelColor=black"/></a>
-  <a href="https://www.linkedin.com/in/ali-raza-7689901a7/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black"/></a>
+  <a href="https://www.linkedin.com/in/ali-raza-saqib/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black"/></a>
+  <a href="https://alirazadev-f795a.web.app/"><img src="https://img.shields.io/badge/website-blue?style=flat&logo=website&labelColor=black"/></a>
    <a href="https://www.facebook.com/profile.php?id=100006145513818"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&labelColor=black"/></a>
   </div>
 
