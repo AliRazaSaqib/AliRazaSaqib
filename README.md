@@ -65,13 +65,11 @@ I enjoy helping people with their problems related to ReactJS, NextJS, and other
   <img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" alt="graphql"  width="32px" style="vertical-align:top; margin:4px">
 </p>
 
-<br />
 
 ## UI/UX Knowledge <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> 
 
 - Adobe XD
 - Figma 
-<br/>
 
 ## 📊 Github Stats
 
