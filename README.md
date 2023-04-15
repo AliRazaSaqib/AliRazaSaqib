@@ -31,7 +31,6 @@ I enjoy helping people with their problems related to ReactJS, NextJS, and other
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn new things like new technologies and new programming languages
-<br/>
 
 
 ## Contributions
