@@ -3,11 +3,15 @@
 ### Hi there, I'm Ali Raza - [Portfolio Website][website] 👋
 
 <p align="justify">
-My self Ali Raza, and I am a Frontend Web Developer currently managing the complete Front-end, from conceptualization, coding, and debugging to delivery. A good team player having excellent interpersonal communication, problem-solving, and clean coding skills and always trying to learn new things. 👨‍💻
+👋 Hey there! I'm Ali Raza, an energetic frontend developer currently managing the complete Front-end, from conceptualization, coding, and debugging to delivery. 💻
 
-During my development journey, I am working on multiple projects and always trying to simplify the application workflows and save the user’s precious time. I am not just making the application but also thinking from a user's perspective about how I can facilitate the user through my application which is the important thing in development. 
+As a good team player, I have excellent interpersonal communication, problem-solving, and clean coding skills. I'm always trying to learn new things and stay up-to-date with the latest technologies. 🤝🧠📚
+
+During my development journey, I work on multiple projects and always try to simplify the application workflows and save the user’s precious time. I am not just making the application but also thinking from a user's perspective about how I can facilitate the user through my application, which is the important thing in development. 🤔🚀
+
+I also believe in self-learning, so I spend my free time learning new things and also working on my backend skills to pursue my career as a Full Stack Developer in the future. 📈👨‍💻 
   
-I like to help people get answers to their problems regarding ReactJS, NextJS and some other frontend technologies. I love about what I do! I want to make my impression as a  successful developer and for that I try to learn and teach anything valuable that can help me to get the better understand of what I do!
+I enjoy helping people with their problems related to ReactJS, NextJS, and other frontend technologies. It's a passion of mine to assist others and make a positive impact as a successful developer.
 </p>
 
 <div id="header" align="center">
