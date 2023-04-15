@@ -45,7 +45,6 @@ I enjoy helping people with their problems related to ReactJS, NextJS, and other
  solutions with others, and recently I assisted with resolving a custom React reusable 
  calendar component issue that was posted on GitHub. 🤔💡📅
 
-<br/>
 
 ## Languages and Tools <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/>
 <p>
