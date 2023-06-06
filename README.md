@@ -1,10 +1,15 @@
 <!-- @format -->
+<div align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+  <img src="https://github.com/AliRazaSaqib/AliRazaSaqib/blob/master/banner.png" alt="Banner" style="border-radius: 12px;">
+</div>
+
 
 ### Hi there, I'm Ali Raza - [Portfolio Website][website] 👋
 
 <p align="justify">
 👋 Hey there! I'm Ali Raza, an energetic frontend developer currently managing the complete Front-end, from conceptualization, coding, and debugging to delivery. 💻
-
+ 
 As a good team player, I have excellent interpersonal communication, problem-solving, and clean coding skills. I'm always trying to learn new things and stay up-to-date with the latest technologies. 🤝🧠📚
 
 During my development journey, I work on multiple projects and always try to simplify the application workflows and save the user’s precious time. I am not just making the application but also thinking from a user's perspective about how I can facilitate the user through my application, which is the important thing in development. 🤔🚀
@@ -31,6 +36,7 @@ I enjoy helping people with their problems related to ReactJS, NextJS, and other
       <a href="mailto:raza80540@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
+  </p>
     </p>
   <p align="center">
       <a href="https://www.quora.com/profile/Muhammad-Ali-Raza-34" target="blank"><img align="center"
