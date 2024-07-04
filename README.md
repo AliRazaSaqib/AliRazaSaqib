@@ -52,10 +52,10 @@
 
 ## I'm a Frontend Developer!!
 
-- 🌱 I’m currently learning everything🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 As part of my objectives for 2023, I aim to significantly contribute to the development of Open Source projects
-- ⚡ A noteworthy aspect about me is my keen interest in learning new technologies and programming languages
+- 🌱 I’m currently expanding my knowledge across various technologies.
+- 👯 I’m eager to collaborate with other developers on innovative projects.
+- 🥅 My 2024 goal is to make substantial contributions to Open Source projects.
+- ⚡ I have a strong passion for learning new technologies and programming languages.
 
 
 ## Contributions 👩‍💻
@@ -105,11 +105,11 @@
 
 ## Connect with me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"/>
 
-[<img align="left" alt="incomebomb.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="IncomeBomb | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="IncomeBomb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="IncomeBomb | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="IncomeBomb | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
+[<img align="left" alt="icon not found" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="icon not found" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="icon not found" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="icon not found" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="icon not found" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 
 <br /><br/>
     
