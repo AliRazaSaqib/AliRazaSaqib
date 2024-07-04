@@ -8,15 +8,7 @@
 ### Hi there, I'm Ali Raza - [Portfolio Website][website] 👋
 
 <p align="justify">
-👋 Hey there! I'm Ali Raza, an energetic frontend developer currently managing the complete Front-end, from conceptualization, coding, and debugging to delivery. 💻
- 
-As a good team player, I have excellent interpersonal communication, problem-solving, and clean coding skills. I'm always trying to learn new things and stay up-to-date with the latest technologies. 🤝🧠📚
-
-During my development journey, I work on multiple projects and always try to simplify the application workflows and save the user’s precious time. I am not just making the application but also thinking from a user's perspective about how I can facilitate the user through my application, which is the important thing in development. 🤔🚀
-
-I also believe in self-learning, so I spend my free time learning new things and also working on my backend skills to pursue my career as a Full Stack Developer in the future. 📈👨‍💻 
-  
-I enjoy helping people with their problems related to ReactJS, NextJS, and other frontend technologies. It's a passion of mine to assist others and make a positive impact as a successful developer.
+👋I am a dedicated software engineer adept in frontend development, driven by a passion for creating engaging and responsive user interfaces. Skilled in React.js, Next.js, JavaScript, TypeScript, Docker, GitHub, HTML, CSS, Tailwind CSS, and other CSS frameworks as well. As a quick learner, I always try out new things. When I work on projects, I'm always looking for new and creative ways to solve problems. I'm adaptable and open-minded, so I do well in environments where using the latest technology is important for achieving great results.
 </p>
 
 <div id="header" align="center">
