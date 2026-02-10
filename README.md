@@ -9,7 +9,7 @@
 ### Senior Software Engineer | Next.js / React.js Specialist | Frontend Architect
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blueviolet?style=for-the-badge&logo=react)](https://alirazadev-f795a.web.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-raza-saqib/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alirazaofficials/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+923077534255)
 
 </div>
