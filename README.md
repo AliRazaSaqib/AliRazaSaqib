@@ -25,7 +25,7 @@ I don't just write code; I build <b>reliability</b>. Whether it's scaling platfo
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Skills
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Web Frontend** | Next.js, React.js, JavaScript, TypeScript, Redux Toolkit, Context API |
