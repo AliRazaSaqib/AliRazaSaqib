@@ -43,11 +43,13 @@ Beyond coding, I collaborate closely with designers, backend engineers, and prod
 ### 🛠️ Technical Skills
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Web Frontend** | Next.js, React.js, JavaScript, TypeScript, Redux Toolkit, Context API |
-| **Mobile** | **React Native**, Mobile UI Patterns, Cross-platform Optimization |
-| **Logic & Types** | TypeScript, Zod, React Hook Form, OpenAPI, REST & GraphQL |
-| **UI/UX** | Tailwind CSS, Framer Motion, Material UI, Ant Design, Styled Components, Figma |
-| **DevOps** | Docker, GitLab CI/CD, GitHub Actions
+| **Web Frontend** | Next.js, React.js, JavaScript (ES6+), TypeScript, Redux Toolkit, Context API, React Hooks, jQuery |
+| **Logic & Types** | TypeScript, Zod, React Hook Form, OpenAPI, REST APIs, GraphQL, Chart.js |
+| **UI/UX** | Tailwind CSS, Framer Motion, Material UI, Ant Design, Bootstrap, Styled Components, HTML5, CSS3, Figma, Adobe XD |
+| **Auth & Internationalization** | NextAuth, i18next |
+| **Backend Knowledge** | Node.js, Strapi CMS |
+| **DevOps & Collaboration** | Docker, Git, GitHub, GitLab, Bitbucket, GitLab CI/CD, GitHub Actions, Jira |
+| **Development Tools** | Visual Studio Code, Cursor |
 
 ---
 
