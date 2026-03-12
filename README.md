@@ -18,9 +18,24 @@
 
 ### 💡 Professional Summary
 <p align="justify">
-I am an Engineer dedicated to architecting <b>high-performance, scalable frontend ecosystems</b>. With a deep focus on <b>Next.js / React.js</b>, <b>TypeScript / JavaScript</b>, and <b>Modern UI Systems</b>, I bridge the gap between complex business requirements and intuitive user experiences.
 
-I don't just write code; I build <b>reliability</b>. Whether it's scaling platforms like <b>PetsFirst</b> to $50k/month in revenue or building lot of enterprise-grade admin portals. I focus on building systems that are maintainable, type-safe, and production-ready.
+Great frontend experiences rarely happen by accident — they are engineered.
+
+I specialize in building <b>scalable, high-performance frontend applications</b> using <b>React.js and Next.js</b>. My work focuses on the intersection of <b>user experience, system performance, and scalable architecture</b>, delivering platforms that are fast, reliable, and production-ready.
+
+I design <b>structured and maintainable frontend systems</b> used across <b>e-commerce, SaaS, and healthcare platforms</b>. Several of the products I contributed to generate significant monthly revenue, driven by <b>performance optimization, clean architecture, and user-focused design</b>.
+
+My technical approach focuses on building modern frontend ecosystems through:
+
+• Scalable applications with <b>React.js / Next.js</b>
+• Efficient <b>REST API integration and data-fetching strategies</b>
+• <b>Component-driven architectures</b> for maintainable codebases
+• Scalable <b>state management patterns</b>
+• Development of <b>Progressive Web Applications (PWAs)</b>
+• <b>Git-based workflows</b> for reliable collaboration
+
+Beyond coding, I collaborate closely with designers, backend engineers, and product teams to translate complex ideas into <b>intuitive, production-ready interfaces</b>.
+
 </p>
 
 ---
