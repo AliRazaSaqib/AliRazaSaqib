@@ -54,7 +54,7 @@ Beyond coding, I collaborate closely with designers, backend engineers, and prod
 ---
 
 ### 🚀 Key Impact
-- **Product Scaling:** Led the frontend for **PetsFirst**, supporting its growth into a $50k/month revenue-generating healthcare platform.
+- **Product Scaling:** Led the frontend for **PetsFirst**, supporting its growth into a $50K/month revenue-generating healthcare platform.
 - **Cross-Platform Versatility:** Bridging Web and Mobile by leveraging **React Native** to deliver consistent user experiences across devices.
 - **Infrastructure:** Specialized in building enterprise-grade admin portals with complex RBAC (Role-Based Access Control) and automated deployment pipelines.
 
