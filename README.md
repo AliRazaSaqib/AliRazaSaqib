@@ -20,7 +20,7 @@
 <p align="justify">
 I am an Engineer dedicated to architecting <b>high-performance, scalable frontend ecosystems</b>. With a deep focus on <b>Next.js / React.js</b>, <b>TypeScript / JavaScript</b>, and <b>Modern UI Systems</b>, I bridge the gap between complex business requirements and intuitive user experiences.
 
-I don't just write code; I build <b>reliability</b>. Whether it's scaling platforms like <b>PetsFirst</b> to $1M/month in revenue or building lot of enterprise-grade admin portals. I focus on building systems that are maintainable, type-safe, and production-ready.
+I don't just write code; I build <b>reliability</b>. Whether it's scaling platforms like <b>PetsFirst</b> to $50k/month in revenue or building lot of enterprise-grade admin portals. I focus on building systems that are maintainable, type-safe, and production-ready.
 </p>
 
 ---
