@@ -52,8 +52,7 @@ Beyond coding, I collaborate closely with designers, backend engineers, and prod
 | **Auth & Internationalization** | NextAuth, i18next                                                                                                                 |
 | **Backend Knowledge**           | Node.js, Strapi CMS                                                                                                               |
 | **DevOps & Collaboration**      | Docker, Git, GitHub, GitLab, Bitbucket, GitLab CI/CD, GitHub Actions, Jira                                                        |
-| **Development Tools**           | Visual Studio Code, Cursor      
-|
+| **Development Tools**           | Visual Studio Code, Cursor
 
 ---
 
