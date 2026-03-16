@@ -23,20 +23,20 @@
 
 Great frontend experiences rarely happen by accident — they are engineered.
 
-I specialize in building <b>scalable, high-performance frontend applications</b> using <b>React.js and Next.js</b>. My work focuses on the intersection of <b>user experience, system performance, and scalable architecture</b>, delivering platforms that are fast, reliable, and production-ready.
+I specialize in building <b>scalable, high-performance web applications</b> using <b>React.js and Next.js</b>. My work focuses on the intersection of <b>user experience, system performance, and scalable architecture</b>, delivering platforms that are fast, reliable, and production-ready.
 
 I design <b>structured and maintainable frontend systems</b> used across <b>e-commerce, SaaS, and healthcare platforms</b>. Several of the products I contributed to generate significant monthly revenue, driven by <b>performance optimization, clean architecture, and user-focused design</b>.
 
 My technical approach focuses on building modern frontend ecosystems through:
 
-• Scalable applications with <b>React.js / Next.js</b>
-• Efficient <b>REST API integration and data-fetching strategies</b>
-• <b>Component-driven architectures</b> for maintainable codebases
-• Scalable <b>state management patterns</b>
-• Development of <b>Progressive Web Applications (PWAs)</b>
-• <b>Git-based workflows</b> for reliable collaboration
+### 📈 Core Competencies
 
-Beyond coding, I collaborate closely with designers, backend engineers, and product teams to translate complex ideas into <b>intuitive, production-ready interfaces</b>.
+* **Architectural Ownership:** Designing maintainable, component-driven systems for SaaS, E-commerce and Health Care.
+* **Performance Engineering:** Optimizing Core Web Vitals, Lazy Loading, and PWA implementation.
+* **Full-Stack Strategy:** Connecting complex UI with robust backend logic and third-party enterprise APIs.
+* **Technical Leadership:** Mentoring, code reviews, and Agile/Scrum project management.
+
+Beyond coding, I collaborate closely with designers, backend engineers, and product teams to translate complex ideas into <b>intuitive, production-ready wesbites</b>.
 
 </p>
 
@@ -50,15 +50,15 @@ Beyond coding, I collaborate closely with designers, backend engineers, and prod
 | **Logic & Types**               | TypeScript, Zod, React Hook Form, OpenAPI, REST APIs, GraphQL, Chart.js                                                           |
 | **UI/UX**                       | Tailwind CSS, Framer Motion, Material UI, Ant Design, Bootstrap, Styled Components, HTML5, CSS3, SCSS, Figma, Adobe XD |
 | **Auth & Internationalization** | NextAuth, i18next                                                                                                                 |
-| **Backend Knowledge**           | Node.js, Strapi CMS                                                                                                               |
 | **DevOps & Collaboration**      | Docker, Git, GitHub, GitLab, Bitbucket, GitLab CI/CD, GitHub Actions, Jira                                                        |
+| **Additional Skills**           | Node.js, Strapi CMS, MongoDB, Supabase   
 | **Development Tools**           | Visual Studio Code, Cursor
 
 ---
 
 ### 🚀 Key Impact
 
-- **Product Scaling:** Led the frontend for **PetsFirst**, supporting its growth into a $50K/month revenue-generating healthcare platform.
+- **Product Scaling:** Led the frontend for **PetsFirst**, supporting its growth into a **$50K/month** revenue-generating healthcare platform.
 - **Cross-Platform Versatility:** Bridging Web and Mobile by leveraging **React Native** to deliver consistent user experiences across devices.
 - **Infrastructure:** Specialized in building enterprise-grade admin portals with complex RBAC (Role-Based Access Control) and automated deployment pipelines.
 
