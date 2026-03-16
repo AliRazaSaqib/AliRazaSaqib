@@ -61,7 +61,7 @@ Beyond coding, I collaborate closely with designers, backend engineers, and prod
 
 ---
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <div align="center">
   <table border="0">
@@ -71,27 +71,30 @@ Beyond coding, I collaborate closely with designers, backend engineers, and prod
       </td>
     </tr>
   </table>
-  <br />
 </div>
 
-## 🌐 Socials:
+---
+
+### 🌐 Socials
+
 <div align="center">
-<a href="https://www.linkedin.com/in/alirazaofficials" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://wa.me/923077534255" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="mailto:raza80540@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://alirazadev-f795a.web.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge&logo=react&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/alirazaofficials" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/923077534255" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:raza80540@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://alirazadev-f795a.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
 
-<br />
+  <br />
+  <br />
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
 
-<p><b>Engineering digital products that don't just work—they win.</b></p>
+  <p><b>Engineering digital products that don't just work—they win.</b></p>
 </div>
