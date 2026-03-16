@@ -6,25 +6,10 @@
 <div align="center">
 
 # 👋 Hi there, I'm Ali Raza
+## Senior Software Engineer | Next.js / React.js Specialist | Frontend Architect
 
-### Senior Software Engineer | Next.js / React.js Specialist | Frontend Architect
-<div align="center">
-<a href="https://alirazadev-f795a.web.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blueviolet?style=for-the-badge&logo=react" height="35"/>
-</a>
-<a href="https://www.linkedin.com/in/alirazaofficials" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" height="35"/>
-</a>
-<a href="https://github.com/AliRazaSaqib" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" height="35"/>
-</a>
-<a href="mailto:raza80540@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-</a>
-<a href="https://wa.me/923077534255" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" height="35"/>
-</a>
-</div>
+I’m a passionate Senior Software Engineer and frontend architect dedicated to building high-performance web experiences. I specialize in the React ecosystem, turning complex requirements into scalable, production-ready digital products.
+
 </div>
 
 ---
@@ -76,20 +61,37 @@ Beyond coding, I collaborate closely with designers, backend engineers, and prod
 
 ---
 
-### 📊 Github Statistics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/>
+# 📊 GitHub Stats:
 
-<p align="center">
-  <img height="150px" width="48%" alt="AliRazaSaqib Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AliRazaSaqib&theme=tokyonight&hide_border=true" />
-<p/>
-      
----
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img height="165px" src="https://nirzak-streak-stats.vercel.app/?user=AliRazaSaqib&theme=dark&hide_border=false" />
+      </td>
+    </tr>
+  </table>
+  <br />
+</div>
+
+## 🌐 Socials:
+<div align="center">
+<a href="https://www.linkedin.com/in/alirazaofficials" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://wa.me/923077534255" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="mailto:raza80540@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://alirazadev-f795a.web.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge&logo=react&logoColor=white" />
+</a>
 
 <br />
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
+
+<p><b>Engineering digital products that don't just work—they win.</b></p>
 </div>
-
----
-
-<p align="center"><b>Engineering digital products that don't just work—they win.</b></p>
