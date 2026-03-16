@@ -8,11 +8,23 @@
 # 👋 Hi there, I'm Ali Raza
 
 ### Senior Software Engineer | Next.js / React.js Specialist | Frontend Architect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blueviolet?style=for-the-badge&logo=react)](https://alirazadev-f795a.web.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alirazaofficials/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+923077534255)
-
+<div align="center">
+<a href="https://alirazadev-f795a.web.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blueviolet?style=for-the-badge&logo=react" height="35"/>
+</a>
+<a href="https://www.linkedin.com/in/alirazaofficials" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" height="35"/>
+</a>
+<a href="https://github.com/AliRazaSaqib" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" height="35"/>
+</a>
+<a href="mailto:raza80540@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+</a>
+<a href="https://wa.me/923077534255" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" height="35"/>
+</a>
+</div>
 </div>
 
 ---
@@ -71,14 +83,6 @@ Beyond coding, I collaborate closely with designers, backend engineers, and prod
 <p/>
       
 ---
-
-### 🤝 Connect With Me
-
-<div align="center">
-  <a href="mailto:raza80540@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
-  <a href="https://www.linkedin.com/in/ali-raza-saqib/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
-  <a href="https://github.com/AliRazaSaqib" target="blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="35"/></a>
-</div>
 
 <br />
 
