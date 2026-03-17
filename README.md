@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+  <!-- <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> -->
   <img src="https://github.com/AliRazaSaqib/AliRazaSaqib/blob/master/banner.png" alt="Banner" style="border-radius: 12px; width: 100%">
 </div>
 
