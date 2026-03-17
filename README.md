@@ -47,7 +47,7 @@ Beyond coding, I collaborate closely with designers, backend engineers, and prod
 | **Logic & Types**               | TypeScript, Zod, React Hook Form, OpenAPI, REST APIs, GraphQL, Chart.js                                                           |
 | **UI/UX**                       | Tailwind CSS, Framer Motion, Material UI, Ant Design, Bootstrap, Styled Components, HTML5, CSS3, SCSS, Figma, Adobe XD |
 | **Auth & Internationalization** | NextAuth, i18next                                                                                                                 |
-| **DevOps & Collaboration**      | Docker, Git, GitHub, GitLab, Bitbucket, GitLab CI/CD, GitHub Actions, Jira                                                        |
+| **DevOps & Collaboration**      | Docker, Git, GitHub, GitLab, Bitbucket, GitHub CI/CD, GitHub Actions, Jira, Team Work, Notion                                                        |
 | **Additional Skills**           | Node.js, Strapi CMS, MongoDB, Supabase   
 | **Development Tools**           | Visual Studio Code, Cursor
 
