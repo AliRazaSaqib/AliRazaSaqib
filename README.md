@@ -61,20 +61,6 @@ Beyond coding, I collaborate closely with designers, backend engineers, and prod
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img height="165px" src="https://nirzak-streak-stats.vercel.app/?user=AliRazaSaqib&theme=dark&hide_border=false" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 🌐 Socials
 
 <div align="center">
